@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Java](http://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white)
 
-http://img.shields.io/badge/C++-3776AB?style=flat-square&logo=C++&logoColor=white
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=tokyonight&count_private=true)
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact)
