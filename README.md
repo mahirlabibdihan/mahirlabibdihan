@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact)
