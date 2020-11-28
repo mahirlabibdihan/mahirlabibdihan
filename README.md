@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Java](http://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white)
 
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=tokyonight&count_private=true)
 <br />
