@@ -27,6 +27,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Mahir Labib Dihan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="mailto:mahirlabibdihan@gmail.com">
+  <img align="left" alt="Mail to Mahir Labib Dihan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 <br />
 <br />
