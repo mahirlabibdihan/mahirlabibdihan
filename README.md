@@ -1,5 +1,4 @@
  <img src="https://komarev.com/ghpvc/?username=mahirlabibdihan">
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahirlabibdihan.mahirlabibdihan) -->
 ### Hi there 👋 I'm Mahir Labib Dihan
 
 <!--
@@ -16,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahirlabibdihan.mahirlabibdihan) -->
 <a href="https://www.linkedin.com/in/mahirlabibdihan/">
   <img align="left" alt="Mahir Labib Dihan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
