@@ -1,4 +1,5 @@
  <img src="https://komarev.com/ghpvc/?username=mahirlabibdihan">
+ <img src="http://ionicabizau.github.io/github-profile-languages/api.html?mahirlabibdihan">
 ### Hi there 👋 I'm Mahir Labib Dihan
 
 <!--
