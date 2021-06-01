@@ -5,7 +5,7 @@
 | |    | |   | |   |  ____  |     | |</br>
 | |____/ /___| |___| |    | |_____| |</br>
 |_______/|_________|_|    |_________|</br>
-M A H I R     L A B I B     D I H A N</br>
+M A H I R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L A B I B     D I H A N</br>
 
 <!--
 **mahirlabibdihan/mahirlabibdihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
