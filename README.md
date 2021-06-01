@@ -1,11 +1,11 @@
  <img src="https://komarev.com/ghpvc/?username=mahirlabibdihan">
- ______   _________ _      _       _
-|  ____ \|___   ___| |    | |     | |
-| |    \ \   | |   | |____| |     | |
-| |    | |   | |   |  ____  |     | |
-| |____/ /___| |___| |    | |_____| |
-|_______/|_________|_|    |_________|
-M A H I R     L A B I B     D I H A N
+ ______   _________ _      _       _</br>
+|  ____ \|___   ___| |    | |     | |</br>
+| |    \ \   | |   | |____| |     | |</br>
+| |    | |   | |   |  ____  |     | |</br>
+| |____/ /___| |___| |    | |_____| |</br>
+|_______/|_________|_|    |_________|</br>
+M A H I R     L A B I B     D I H A N</br>
 
 <!--
 **mahirlabibdihan/mahirlabibdihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
