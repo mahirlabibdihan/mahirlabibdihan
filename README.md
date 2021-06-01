@@ -1,5 +1,11 @@
  <img src="https://komarev.com/ghpvc/?username=mahirlabibdihan">
-### Hi there 👋 I'm Mahir Labib Dihan
+ ______   _________ _      _       _
+|  ____ \|___   ___| |    | |     | |
+| |    \ \   | |   | |____| |     | |
+| |    | |   | |   |  ____  |     | |
+| |____/ /___| |___| |    | |_____| |
+|_______/|_________|_|    |_________|
+M A H I R     L A B I B     D I H A N
 
 <!--
 **mahirlabibdihan/mahirlabibdihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
