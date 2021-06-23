@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/mahirlabibdihan/">
-  <img align="left" alt="Mahir Labib Dihan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mahir Labib Dihan's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/di_huu/">
   <img align="left" alt="Mahir Labib Dihan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/mahirlabibdihan">
   <img align="left" alt="Mahir Labib Dihan's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
+[![Twitter](icons/twitter.png)](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)
 <a href="https://www.twitter.com/mahirlabibdihan">
   <img align="left" alt="Mahir Labib Dihan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
