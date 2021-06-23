@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
 
-https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark
+[![trophy]https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark
