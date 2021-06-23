@@ -8,7 +8,8 @@
 |_______/|_________|__|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_________|</br>
 M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;I&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;I&nbsp;H&nbsp;A&nbsp;N</br>-->
 
-<div>
+ <img src="_LOGO_.PNG">
+ 
 <a href="https://www.linkedin.com/in/mahirlabibdihan/">
   <img align="left" alt="Mahir Labib Dihan's LinkdeIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -26,12 +27,9 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 <a href="mailto:mahirlabibdihan@gmail.com">
   <img align="left" alt="Mail to Mahir Labib Dihan" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
- <br>
- <br>
-</div>
 
  <img src="https://komarev.com/ghpvc/?username=mahirlabibdihan">
- <img src="_LOGO_.PNG">
+
 
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true)
 
