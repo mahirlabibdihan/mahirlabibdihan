@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-#Languages and Tools:
+# Languages and Tools:
 
 
 ![C](http://img.shields.io/badge/C-3776AB?style=flat-square&logo=C++&logoColor=white)
