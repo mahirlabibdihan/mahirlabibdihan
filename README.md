@@ -33,7 +33,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 ![_Triangle_](https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif)
 
-![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)
+![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)
 
