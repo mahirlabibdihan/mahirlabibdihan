@@ -32,6 +32,8 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 <br> 
 
+[![Facebook]("https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg")]("https://www.facebook.com/mahirlabibdihan")
+
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
