@@ -31,7 +31,8 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 ![Triangle](https://user-images.githubusercontent.com/62663759/123101659-1afd0e80-d456-11eb-8eae-5f7b1ebbed00.gif)
 <br> -->
 
-<img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif" align="center">
+<img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif" align="middle">
+
 ![_Triangle_](https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif)
 
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)
