@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+
+https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark
