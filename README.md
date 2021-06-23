@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Mahir Labib Dihan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/mahirlabibdihan">
-  <img align="left" alt="Mahir Labib Dihan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Mahir Labib Dihan's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.twitter.com/mahirlabibdihan">
   <img align="left" alt="Mahir Labib Dihan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
