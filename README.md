@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=tokyonight&count_private=true)
 <br />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark)](https://git.io/streak-stats)
