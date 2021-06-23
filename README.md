@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true)
 <br />
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&hide_border=true&count_private=true)](https://git.io/streak-stats)
