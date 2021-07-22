@@ -31,7 +31,6 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 ![Triangle](https://user-images.githubusercontent.com/62663759/123101659-1afd0e80-d456-11eb-8eae-5f7b1ebbed00.gif)
 <br> -->
 
-<img src="https://grabify.link/ARV7UA">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif">
 </p>
