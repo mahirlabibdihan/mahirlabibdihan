@@ -35,6 +35,21 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 <img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif">
 </p>
 
+# ProblemSolvingStats
+| OJ | Username | Solve Count |
+| -- | -------- | ----------- |
+| Codeforces | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) | 784 |
+| HackerRank | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan) | 72 |
+| HackerEarth | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan) | 42 |
+| Leetcode | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan) | 30 |
+| AtCoder | [Dihuu](https://atcoder.jp/users/Dihuu) | 9 |
+| Vjudge | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan) | 7 |
+| Toph | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan) | 6 |
+| CodeChef | [dihuu](https://www.codechef.com/users/dihuu) | 5 |
+| SPOJ | [dihuu](https://www.spoj.com/users/dihuu/) | 1 | 
+| Total | | 956 |
+Last Updated: 01 Feb, 2022
+
 ![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)
