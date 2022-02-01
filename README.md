@@ -56,11 +56,11 @@ Last Updated: 01 Feb, 2022
 
 | OJ | Contest Count | Best ranking |
 | -- | -------- | ----------- |
-| Codeforces | 47 | 514/17663 |
-| HackerEarth | 3 | 129/2029 |
-| CodeChef | 3 | 79398/178744 |
-| AtCoder | 3 | 2727/8647 |
-| LeetCode | 1 | 2772/10463 |
+| Codeforces | 47 | 514th/17663 |
+| HackerEarth | 3 | 129th/2029 |
+| CodeChef | 3 | 79398th/178744 |
+| AtCoder | 3 | 2727th/8647 |
+| LeetCode | 1 | 2772th/10463 |
 | Total | 57 | |
 
 Last Updated: 01 Feb, 2022
