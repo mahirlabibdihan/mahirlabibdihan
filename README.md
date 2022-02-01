@@ -56,7 +56,7 @@ Last Updated: 01 Feb, 2022
 
 | OJ | Total | Best ranking |
 | -- | -------- | ----------- |
-| Codeforces | 47 | 514/9178 |
+| Codeforces | 47 | 514/17663 |
 | HackerEarth | 3 | 129/2029 |
 | CodeChef | 3 | 79398/178744 |
 | AtCoder | 3 | 2727/8647 |
