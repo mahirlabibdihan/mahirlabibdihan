@@ -54,13 +54,14 @@ Last Updated: 01 Feb, 2022
 
 # Contest Stats
 
-| OJ | Total | Best ranking |
+| OJ | Contest Count | Best ranking |
 | -- | -------- | ----------- |
 | Codeforces | 47 | 514/17663 |
 | HackerEarth | 3 | 129/2029 |
 | CodeChef | 3 | 79398/178744 |
 | AtCoder | 3 | 2727/8647 |
 | LeetCode | 1 | 2772/10463 |
+| Total | 57 | |
 
 Last Updated: 01 Feb, 2022
 <!--![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)-->
