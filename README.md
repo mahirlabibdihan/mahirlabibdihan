@@ -48,7 +48,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | Toph | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan) | 6 |
 | CodeChef | [dihuu](https://www.codechef.com/users/dihuu) | 5 |
 | SPOJ | [dihuu](https://www.spoj.com/users/dihuu/) | 1 | 
-| Total | | 956 |
+| Total | 956 |
 
 Last Updated: 01 Feb, 2022
 
