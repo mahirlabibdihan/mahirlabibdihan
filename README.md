@@ -47,10 +47,11 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | Vjudge | 7 |[mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan) | 
 | Toph | 6 |[mahirlabibdihan](https://toph.co/u/mahirlabibdihan) | 
 | CodeChef | 5 |[dihuu](https://www.codechef.com/users/dihuu) | 
+| LightOJ | 1 | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan) |
 | SPOJ | 1 | [dihuu](https://www.spoj.com/users/dihuu/) | 
 | Total | 956 | | 
 
-Last Updated: 01 Feb, 2022
+Last Updated: 02 Feb, 2022
 
 # Contest Stats
 
