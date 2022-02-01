@@ -37,7 +37,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 # Problem Solving Stats
 
-| OJ | Username | Solve Count |
+| OJ | Solve Count | Username | 
 | -- | -------- | ----------- |
 | Codeforces | 784 |[mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) | 
 | HackerRank | 72 |[mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan) | 
