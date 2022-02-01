@@ -35,7 +35,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 <img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif">
 </p>
 
-# ProblemSolvingStats
+# Problem Solving Stats
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
@@ -52,7 +52,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 Last Updated: 01 Feb, 2022
 
-# ContestStats
+# Contest Stats
 
 | OJ | Total | Best ranking |
 | -- | -------- | ----------- |
