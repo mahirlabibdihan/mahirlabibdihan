@@ -49,7 +49,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | CodeChef | 5 |[dihuu](https://www.codechef.com/users/dihuu) | 
 | LightOJ | 1 | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan) |
 | SPOJ | 1 | [dihuu](https://www.spoj.com/users/dihuu/) | 
-| Total | 956 | | 
+| Total | 957 | | 
 
 Last Updated: 02 Feb, 2022
 
