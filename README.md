@@ -56,11 +56,11 @@ Last Updated: 01 Feb, 2022
 
 | OJ | Contest Count | Best ranking |
 | -- | -------- | ----------- |
-| Codeforces | 47 | 514th/17663 |
-| HackerEarth | 3 | 129th/2029 |
-| CodeChef | 3 | 79398th/178744 |
-| AtCoder | 3 | 2727th/8647 |
-| LeetCode | 1 | 2772th/10463 |
+| Codeforces | 47 | [514th/17663](https://codeforces.com/contest/1426) |
+| HackerEarth | 3 | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
+| CodeChef | 3 | [3499th/4834](https://www.codechef.com/rankings/COOK122B/) |
+| AtCoder | 3 | [2727th/8647](https://atcoder.jp/contests/abc175/) |
+| LeetCode | 1 | [2772th/10463](https://leetcode.com/contest/biweekly-contest-32/) |
 | Total | 57 | |
 
 Last Updated: 01 Feb, 2022
