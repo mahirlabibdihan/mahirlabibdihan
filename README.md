@@ -67,7 +67,7 @@ Last Updated: 02 Feb, 2022
 Last Updated: 01 Feb, 2022
 <!--![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)
 
@@ -75,6 +75,6 @@ Last Updated: 01 Feb, 2022
   <img src="https://activity-graph.herokuapp.com/graph?username=mahirlabibdihan&theme=react-dark" >
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark&hide_border=true&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark&hide_border=true&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
