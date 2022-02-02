@@ -103,4 +103,9 @@ Last Updated: 01 Feb, 2022
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=mahirlabibdihan&theme=onedark&hide_border=true&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
+[website]: https://mahirlabibdihan.github.io/
+[instagram]: https://instagram.com/di_huu
+[facebook]: https://www.facebook.com/mahirlabibdihan/
+[codeforces]:https://codeforces.com/profile/mahirlabibdihan
+[linkedin]:https://www.linkedin.com/in/mahirlabibdihan/
 
