@@ -68,7 +68,7 @@ Last Updated: 01 Feb, 2022
 
 # Connect with me
 
-[<img align="left" alt="Mahir Labib Dihan" width="22px" src="icons/react.png" />][website]
+[<img align="left" alt="Mahir Labib Dihan" width="22px" src="icons/mahirlabibdihan.ico" />][website]
 [<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="22px" src="icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mahir Labib Dihan | Facebook" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="di_huu | Instagram" width="22px" src="icons/instagram.png" />][instagram]
