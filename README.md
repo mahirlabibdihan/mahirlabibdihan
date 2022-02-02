@@ -83,7 +83,7 @@ Last Updated: 01 Feb, 2022
 <a href="mailto:mahirlabibdihan@gmail.com">
   <img align="left" alt="Mail to Mahir Labib Dihan" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br>
 <!--![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)-->
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)-->
