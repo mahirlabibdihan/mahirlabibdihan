@@ -3,7 +3,7 @@
 |&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;|____|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|</br>
 |&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;____&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|</br>
 |&nbsp;&nbsp;|____/&nbsp;&nbsp;/___|&nbsp;&nbsp;|___|&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;|_____|&nbsp;&nbsp;|</br>
-|_______/|_________|__|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|_________|</br>
+|_______/|_________|__|&nbsp;&nbksp;&nbsp;&nbsp;&nbsp;&nbsp;|_________|</br>
 M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;I&nbsp;B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D&nbsp;I&nbsp;H&nbsp;A&nbsp;N</br>-->
 
 <!--<img src="_LOGO_.PNG">
@@ -37,41 +37,42 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 # Problem Solving Stats
 
-| OJ | Solve Count | Username | 
-| -- | -------- | ----------- |
-| Codeforces | 784 |[mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) | 
-| HackerRank | 72 |[mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan) | 
-| HackerEarth | 42 |[mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan) | 
-| Leetcode | 30 |[mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan) | 
-| AtCoder | 9 |[Dihuu](https://atcoder.jp/users/Dihuu) | 
-| Vjudge | 7 |[mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan) | 
-| Toph | 6 |[mahirlabibdihan](https://toph.co/u/mahirlabibdihan) | 
-| CodeChef | 5 |[dihuu](https://www.codechef.com/users/dihuu) | 
-| LightOJ | 1 | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan) |
-| SPOJ | 1 | [dihuu](https://www.spoj.com/users/dihuu/) | 
-| Total | 957 | | 
+| OJ          | Solve Count | Username                                                          |
+| ----------- | ----------- | ----------------------------------------------------------------- |
+| Codeforces  | 784         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
+| HackerRank  | 72          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
+| HackerEarth | 42          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
+| Leetcode    | 30          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
+| AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
+| Vjudge      | 7           | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan)        |
+| Toph        | 6           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
+| CodeChef    | 5           | [dihuu](https://www.codechef.com/users/dihuu)                     |
+| LightOJ     | 1           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
+| SPOJ        | 1           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
+| Total       | 957         |                                                                   |
 
 Last Updated: 02 Feb, 2022
 
 # Contest Stats
 
-| OJ | Contest Count | Best ranking |
-| -- | -------- | ----------- |
-| Codeforces | 47 | [514th/17663](https://codeforces.com/contest/1426) |
-| HackerEarth | 3 | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
-| AtCoder | 3 | [2727th/8647](https://atcoder.jp/contests/abc175/) |
-| CodeChef | 3 | [3499th/4834](https://www.codechef.com/rankings/COOK122B/) |
-| LeetCode | 1 | [2772th/10463](https://leetcode.com/contest/biweekly-contest-32/) |
-| Total | 57 | |
+| OJ          | Contest Count | Best ranking                                                                      |
+| ----------- | ------------- | --------------------------------------------------------------------------------- |
+| Codeforces  | 47            | [514th/17663](https://codeforces.com/contest/1426)                                |
+| HackerEarth | 3             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
+| AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
+| CodeChef    | 3             | [3499th/4834](https://www.codechef.com/rankings/COOK122B/)                        |
+| LeetCode    | 1             | [2772th/10463](https://leetcode.com/contest/biweekly-contest-32/)                 |
+| Total       | 57            |                                                                                   |
 
 Last Updated: 01 Feb, 2022
 
 # Connect with me
-[<img align="left" alt="TamimEhsan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Tamim Ehsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tamim.ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="TamimEhsan | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+
+[<img align="left" alt="Mahir Labib Dihan" width="22px" src="icons/react.png" />][website]
+[<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="22px" src="icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mahir Labib Dihan | Facebook" width="22px" src="icons/facebook.svg" />][facebook]
+[<img align="left" alt="di_huu | Instagram" width="22px" src="icons/instagram.png" />][instagram]
+[<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/youtube.svg" />][youtube]
 
 <br /> 
 <!--<p>
@@ -98,7 +99,9 @@ Last Updated: 01 Feb, 2022
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)-->
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)-->
+
 # Contribution graph
+
 <p align='center'>
   <img src="https://activity-graph.herokuapp.com/graph?username=mahirlabibdihan&theme=react-dark" >
 </p>
@@ -108,6 +111,6 @@ Last Updated: 01 Feb, 2022
 [website]: https://mahirlabibdihan.github.io/
 [instagram]: https://instagram.com/di_huu
 [facebook]: https://www.facebook.com/mahirlabibdihan/
-[codeforces]:https://codeforces.com/profile/mahirlabibdihan
-[linkedin]:https://www.linkedin.com/in/mahirlabibdihan/
-
+[codeforces]: https://codeforces.com/profile/mahirlabibdihan
+[linkedin]: https://www.linkedin.com/in/mahirlabibdihan/
+[youtube]: https://www.youtube.com/channel/UCTqeUw6A6cKjpNXaAcveGYQ
