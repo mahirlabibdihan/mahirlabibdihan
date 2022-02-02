@@ -65,11 +65,28 @@ Last Updated: 02 Feb, 2022
 | Total | 57 | |
 
 Last Updated: 01 Feb, 2022
+<a href="https://www.linkedin.com/in/mahirlabibdihan/">
+  <img align="left" alt="Mahir Labib Dihan's LinkdeIn" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/di_huu/">
+  <img align="left" alt="Mahir Labib Dihan's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mahirlabibdihan">
+  <img align="left" alt="Mahir Labib Dihan's Instagram" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+
+<a href="https://www.twitter.com/mahirlabibdihan">
+  <img align="left" alt="Mahir Labib Dihan's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="mailto:mahirlabibdihan@gmail.com">
+  <img align="left" alt="Mail to Mahir Labib Dihan" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <!--![Mahir Labib Dihan's github stats](https://github-readme-stats.vercel.app/api?username=mahirlabibdihan&show_icons=true&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700&hide_rank=true)-->
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirlabibdihan&layout=compact&theme=highcontrast&count_private=true&hide_border=true&bg_color=DD272700)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)-->
 
 <p align='center'>
   <img src="https://activity-graph.herokuapp.com/graph?username=mahirlabibdihan&theme=react-dark" >
