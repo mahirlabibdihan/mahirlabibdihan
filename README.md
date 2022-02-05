@@ -77,6 +77,7 @@ Last Updated: 05 Feb, 2022
 [<img align="left" alt="Mahir Labib Dihan | Twitter" width="25px" src="icons/twitter.png" />][twitter]
 [<img align="left" alt="Mahir Labib Dihan | Gmail" width="25px" src="icons/gmail.png" />][gmail]
 [<img align="left" alt="Mahir Labib Dihan | Gmail" width="25px" src="icons/telegram.png" />][telegram]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="25px" src="icons/discord.png" />][discord]
 <br />
 
 <!--<p>
@@ -103,7 +104,7 @@ Last Updated: 05 Feb, 2022
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahirlabibdihan&theme=neon-dark&background=DD272700&border=DD272700)](https://git.io/streak-stats)-->
 
-# Contribution graph-->
+# Contribution graph
 
 <p align='center'>
   <img src="https://activity-graph.herokuapp.com/graph?username=mahirlabibdihan&theme=react-dark" >
@@ -121,3 +122,4 @@ Last Updated: 05 Feb, 2022
 [gmail]: mailto:mahirlabibdihan@gmail.com
 [twitter]: https://twitter.com/mahirlabibdihan
 [telegram]: https://t.me/mahirlabibdihan
+[discord]: https://discord.com/users/754931012416438293
