@@ -35,6 +35,20 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 <img src="https://user-images.githubusercontent.com/62663759/123103147-8eebe680-d457-11eb-86c0-331569b246f8.gif">
 </p>
 
+# Connect with me
+
+[<img align="left" alt="Mahir Labib Dihan" width="30px" src="icons/mahirlabibdihan.ico" />][website]
+[<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="30px" src="icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Mahir Labib Dihan | Facebook" width="30px" src="icons/facebook.png" />][facebook]
+[<img align="left" alt="Mahir Labib Dihan | Messenger" width="30px" src="icons/messenger.png" />][messenger]
+[<img align="left" alt="di_huu | Instagram" width="30px" src="icons/instagram.png" />][instagram]
+[<img align="left" alt="Mahir Labib Dihan | Youtube" width="30px" src="icons/youtube.png" />][youtube]
+[<img align="left" alt="Mahir Labib Dihan | Twitter" width="30px" src="icons/twitter.png" />][twitter]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/gmail.png" />][gmail]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/telegram.png" />][telegram]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/discord.png" />][discord]
+<br />
+
 # Problem Solving Stats
 
 | OJ          | Solve Count | Username                                                          |
@@ -65,20 +79,6 @@ Last Updated: 05 Feb, 2022
 | Total       | 57            |                                                                                   |
 
 Last Updated: 05 Feb, 2022
-
-# Connect with me
-
-[<img align="left" alt="Mahir Labib Dihan" width="30px" src="icons/mahirlabibdihan.ico" />][website]
-[<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="30px" src="icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Mahir Labib Dihan | Facebook" width="30px" src="icons/facebook.png" />][facebook]
-[<img align="left" alt="Mahir Labib Dihan | Messenger" width="30px" src="icons/messenger.png" />][messenger]
-[<img align="left" alt="di_huu | Instagram" width="30px" src="icons/instagram.png" />][instagram]
-[<img align="left" alt="Mahir Labib Dihan | Youtube" width="30px" src="icons/youtube.png" />][youtube]
-[<img align="left" alt="Mahir Labib Dihan | Twitter" width="30px" src="icons/twitter.png" />][twitter]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/gmail.png" />][gmail]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/telegram.png" />][telegram]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/discord.png" />][discord]
-<br />
 
 <!--<p>
   <a href="https://www.linkedin.com/in/mahirlabibdihan/">
