@@ -67,7 +67,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 Last Updated: 05 Feb, 2022
 
-# Contest Stats
+# Competitive Programming Stats
 
 | OJ          | Contest Count | Best ranking                                                                      |
 | ----------- | ------------- | --------------------------------------------------------------------------------- |
