@@ -73,10 +73,10 @@ Last Updated: 05 Feb, 2022
 [<img align="left" alt="Mahir Labib Dihan | Facebook" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="di_huu | Instagram" width="22px" src="icons/instagram.png" />][instagram]
 [<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/youtube.svg" />][youtube]
-
-<!--[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/gmail.png" />][gmail]-->
+[<img align="left" alt="Mahir Labib Dihan | Twitter" width="22px" src="icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/gmail.png" />][gmail]
 <a href="mailto:mahirlabibdihan@gmail.com">
-<img align="left" alt="Mail to Mahir Labib Dihan" width="22px" src="icons/gmail.png" />
+<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/gmail.png" />
 </a>
 <br />
 
@@ -115,7 +115,10 @@ Last Updated: 05 Feb, 2022
 [website]: https://mahirlabibdihan.github.io/
 [instagram]: https://instagram.com/di_huu
 [facebook]: https://www.facebook.com/mahirlabibdihan/
+[messenger]: https://m.me/mahirlabibdihan
 [codeforces]: https://codeforces.com/profile/mahirlabibdihan
 [linkedin]: https://www.linkedin.com/in/mahirlabibdihan/
 [youtube]: https://www.youtube.com/channel/UCTqeUw6A6cKjpNXaAcveGYQ
-[gmail]: "mailto:mahirlabibdihan@gmail.com"
+[gmail]: mailto:mahirlabibdihan@gmail.com
+[twitter]: https://twitter.com/mahirlabibdihan
+[telegram]: https://t.me/mahirlabibdihan
