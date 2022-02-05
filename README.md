@@ -45,8 +45,9 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 [<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/youtube.png" />][youtube]
 [<img align="left" alt="Mahir Labib Dihan | Twitter" width="22px" src="icons/twitter.png" />][twitter]
 [<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/gmail.png" />][gmail]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/telegram.png" />][telegram]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/discord.png" />][discord]
+
+<!--[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/telegram.png" />][telegram]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/discord.png" />][discord]-->
 <br />
 
 # Problem Solving Stats
