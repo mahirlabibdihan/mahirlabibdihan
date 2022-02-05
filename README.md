@@ -42,14 +42,14 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | Codeforces  | 785         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
 | HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
 | HackerEarth | 42          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
-| Leetcode    | 31          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
+| Leetcode    | 34          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
 | AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
 | Vjudge      | 7           | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan)        |
 | Toph        | 6           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
 | CodeChef    | 5           | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | LightOJ     | 1           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 1           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 963         |                                                                   |
+| Total       | 966         |                                                                   |
 
 Last Updated: 05 Feb, 2022
 
@@ -61,10 +61,10 @@ Last Updated: 05 Feb, 2022
 | HackerEarth | 3             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
 | CodeChef    | 3             | [3499th/4834](https://www.codechef.com/rankings/COOK122B/)                        |
-| LeetCode    | 1             | [2772th/10463](https://leetcode.com/contest/biweekly-contest-32/)                 |
+| LeetCode    | 2             | [1592th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
 | Total       | 57            |                                                                                   |
 
-Last Updated: 01 Feb, 2022
+Last Updated: 05 Feb, 2022
 
 # Connect with me
 
@@ -73,7 +73,7 @@ Last Updated: 01 Feb, 2022
 [<img align="left" alt="Mahir Labib Dihan | Facebook" width="22px" src="icons/facebook.svg" />][facebook]
 [<img align="left" alt="di_huu | Instagram" width="22px" src="icons/instagram.png" />][instagram]
 [<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/youtube.svg" />][youtube]
-
+[<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/gmail.png" />][gmail]
 <br /> 
 <!--<p>
   <a href="https://www.linkedin.com/in/mahirlabibdihan/">
@@ -114,3 +114,4 @@ Last Updated: 01 Feb, 2022
 [codeforces]: https://codeforces.com/profile/mahirlabibdihan
 [linkedin]: https://www.linkedin.com/in/mahirlabibdihan/
 [youtube]: https://www.youtube.com/channel/UCTqeUw6A6cKjpNXaAcveGYQ
+[gmail]: "mailto:mahirlabibdihan@gmail.com"
