@@ -39,19 +39,19 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 | OJ          | Solve Count | Username                                                          |
 | ----------- | ----------- | ----------------------------------------------------------------- |
-| Codeforces  | 784         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
-| HackerRank  | 72          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
+| Codeforces  | 785         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
+| HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
 | HackerEarth | 42          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
-| Leetcode    | 30          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
+| Leetcode    | 31          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
 | AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
 | Vjudge      | 7           | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan)        |
 | Toph        | 6           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
 | CodeChef    | 5           | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | LightOJ     | 1           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 1           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 957         |                                                                   |
+| Total       | 963         |                                                                   |
 
-Last Updated: 02 Feb, 2022
+Last Updated: 05 Feb, 2022
 
 # Contest Stats
 
