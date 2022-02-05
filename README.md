@@ -37,16 +37,16 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 # Connect with me
 
-[<img align="left" alt="Mahir Labib Dihan" width="30px" src="icons/mahirlabibdihan.ico" />][website]
-[<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="30px" src="icons/linkedin.png" />][linkedin]
-[<img align="left" alt="Mahir Labib Dihan | Facebook" width="30px" src="icons/facebook.png" />][facebook]
-[<img align="left" alt="Mahir Labib Dihan | Messenger" width="30px" src="icons/messenger.png" />][messenger]
-[<img align="left" alt="di_huu | Instagram" width="30px" src="icons/instagram.png" />][instagram]
-[<img align="left" alt="Mahir Labib Dihan | Youtube" width="30px" src="icons/youtube.png" />][youtube]
-[<img align="left" alt="Mahir Labib Dihan | Twitter" width="30px" src="icons/twitter.png" />][twitter]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/gmail.png" />][gmail]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/telegram.png" />][telegram]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/discord.png" />][discord]
+[<img align="left" alt="Mahir Labib Dihan" width="22px" src="icons/mahirlabibdihan.ico" />][website]
+[<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="22px" src="icons/linkedin.png" />][linkedin]
+[<img align="left" alt="Mahir Labib Dihan | Facebook" width="22px" src="icons/facebook.png" />][facebook]
+[<img align="left" alt="Mahir Labib Dihan | Messenger" width="22px" src="icons/messenger.png" />][messenger]
+[<img align="left" alt="di_huu | Instagram" width="22px" src="icons/instagram.png" />][instagram]
+[<img align="left" alt="Mahir Labib Dihan | Youtube" width="22px" src="icons/youtube.png" />][youtube]
+[<img align="left" alt="Mahir Labib Dihan | Twitter" width="22px" src="icons/twitter.png" />][twitter]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/gmail.png" />][gmail]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/telegram.png" />][telegram]
+[<img align="left" alt="Mahir Labib Dihan | Gmail" width="22px" src="icons/discord.png" />][discord]
 <br />
 
 # Problem Solving Stats
