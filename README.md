@@ -37,7 +37,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 # Connect with me
 
-[<img align="left" alt="Mahir Labib Dihan" width="30px" src="icons/mahirlabibdihan.ico" style="border-bottom-width:10px" />][website]
+[<img align="left" alt="Mahir Labib Dihan" width="30px" src="icons/mahirlabibdihan.ico" style="vertical-align: middle;" />][website]
 [<img align="left" alt="Mahir Labib Dihan | LinkedIn" width="30px" src="icons/linkedin.png" />][linkedin]
 [<img align="left" alt="Mahir Labib Dihan | Facebook" width="30px" src="icons/facebook.png" />][facebook]
 [<img align="left" alt="Mahir Labib Dihan | Messenger" width="30px" src="icons/messenger.png" />][messenger]
