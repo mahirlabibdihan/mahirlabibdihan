@@ -46,7 +46,8 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 [<img align="left" alt="Mahir Labib Dihan | Twitter" width="30px" src="icons/twitter.png" />][twitter]
 [<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/gmail.png" />][gmail]
 [<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/telegram.png" />][telegram]
-[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/discord.png" />][discord]
+
+<!--[<img align="left" alt="Mahir Labib Dihan | Gmail" width="30px" src="icons/discord.png" />][discord]-->
 <br />
 <br />
 
@@ -58,28 +59,24 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
 | HackerEarth | 42          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
 | Leetcode    | 34          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
+| CodeChef    | 11          | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
 | Vjudge      | 7           | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan)        |
 | Toph        | 6           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
-| CodeChef    | 5           | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | LightOJ     | 1           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 1           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 966         |                                                                   |
-
-Last Updated: 05 Feb, 2022
+| Total       | 972         |                                                                   |
 
 # Competitive Programming Stats
 
 | OJ          | Contest Count | Best ranking                                                                      |
 | ----------- | ------------- | --------------------------------------------------------------------------------- |
 | Codeforces  | 47            | [514th/17663](https://codeforces.com/contest/1426)                                |
+| CodeChef    | 3             | [30th/11194](https://www.codechef.com/rankings/START25C)                          |
 | HackerEarth | 3             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
-| CodeChef    | 3             | [3499th/4834](https://www.codechef.com/rankings/COOK122B/)                        |
 | LeetCode    | 2             | [1592th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
 | Total       | 57            |                                                                                   |
-
-Last Updated: 05 Feb, 2022
 
 <!--<p>
   <a href="https://www.linkedin.com/in/mahirlabibdihan/">
