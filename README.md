@@ -76,7 +76,7 @@ Last Updated: 05 Feb, 2022
 | HackerEarth | 3             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
 | CodeChef    | 3             | [3499th/4834](https://www.codechef.com/rankings/COOK122B/)                        |
-| LeetCode    | 2             | [1592th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
+| LeetCode    | 2             | [1574th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
 | Total       | 57            |                                                                                   |
 
 Last Updated: 05 Feb, 2022
