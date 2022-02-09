@@ -75,12 +75,9 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | CodeChef    | 3             | [30th/11194](https://www.codechef.com/rankings/START25C)                          |
 | HackerEarth | 3             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
-<<<<<<< HEAD
 | LeetCode    | 2             | [1592th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
-=======
 | CodeChef    | 3             | [3499th/4834](https://www.codechef.com/rankings/COOK122B/)                        |
 | LeetCode    | 2             | [1574th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
->>>>>>> f49e4f7136b63da108c1b81e2b535f0590d54695
 | Total       | 57            |                                                                                   |
 
 <!--<p>
