@@ -55,9 +55,9 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 | OJ          | Solve Count | Username                                                          |
 | ----------- | ----------- | ----------------------------------------------------------------- |
-| Codeforces  | 785         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
+| Codeforces  | 792         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
 | HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
-| HackerEarth | 42          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
+| HackerEarth | 45          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
 | Leetcode    | 34          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
 | CodeChef    | 11          | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
@@ -65,18 +65,18 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | Toph        | 6           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
 | LightOJ     | 1           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 1           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 972         |                                                                   |
+| Total       | 982         |                                                                   |
 
 # Competitive Programming Stats
 
 | OJ          | Contest Count | Best ranking                                                                      |
 | ----------- | ------------- | --------------------------------------------------------------------------------- |
-| Codeforces  | 47            | [514th/17663](https://codeforces.com/contest/1426)                                |
+| Codeforces  | 48            | [514th/17663](https://codeforces.com/contest/1426)                                |
 | HackerEarth | 4             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/) |
 | CodeChef    | 3             | [30th/11194](https://www.codechef.com/rankings/START25C)                          |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                |
 | LeetCode    | 2             | [1574th/16927](https://leetcode.com/contest/biweekly-contest-71/)                 |
-| Total       | 59            |                                                                                   |
+| Total       | 60            |                                                                                   |
 
 <!--<p>
   <a href="https://www.linkedin.com/in/mahirlabibdihan/">
