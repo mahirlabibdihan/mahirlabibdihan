@@ -77,7 +77,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | CodeChef    | 3             | [30th/11194](https://www.codechef.com/rankings/START25C)                                   |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                         |
 | LeetCode    | 2             | [1574th/16927](https://leetcode.com/contest/biweekly-contest-71/)                          |
-| KickStart   | 1             | [8300th/17465](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e) |
+| KickStart   | 1             | [6984th/17465](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e) |
 | HashCode    | 1             | [5022th/10200](https://codingcompetitions.withgoogle.com/hashcode/round/00000000008caae7)  |
 | Total       | 69            |                                                                                            |
 
