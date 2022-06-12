@@ -55,7 +55,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 | OJ          | Solve Count | Username                                                          |
 | ----------- | ----------- | ----------------------------------------------------------------- |
-| Codeforces  | 893         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
+| Codeforces  | 902         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
 | HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
 | HackerEarth | 45          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
 | Leetcode    | 34          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
@@ -66,13 +66,13 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | CSES        | 3           | [mahirlabibdihan](https://cses.fi/user/99946)                     |
 | LightOJ     | 2           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 2           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 1095        |                                                                   |
+| Total       | 1104        |                                                                   |
 
 # Competitive Programming Stats
 
 | OJ          | Contest Count | Best ranking                                                                              |
 | ----------- | ------------- | ----------------------------------------------------------------------------------------- |
-| Codeforces  | 57            | [514th/17663](https://codeforces.com/contest/1426)                                        |
+| Codeforces  | 59            | [529th/26080](https://codeforces.com/contest/1675)                                        |
 | HackerEarth | 4             | [129th/2029](https://www.hackerearth.com/challenges/competitive/august-easy-201/)         |
 | CodeChef    | 4             | [30th/11194](https://www.codechef.com/rankings/START25C)                                  |
 | AtCoder     | 3             | [2727th/8647](https://atcoder.jp/contests/abc175/)                                        |
@@ -80,7 +80,7 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 | KickStart   | 2             | [520th/7150](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74)  |
 | Codejam     | 2             | [3836th/11350](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)  |
 | HashCode    | 1             | [5022th/10200](https://codingcompetitions.withgoogle.com/hashcode/round/00000000008caae7) |
-| Total       | 72            |                                                                                           |
+| Total       | 74            |                                                                                           |
 
 <!--<p>
   <a href="https://www.linkedin.com/in/mahirlabibdihan/">
