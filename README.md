@@ -55,18 +55,18 @@ M&nbsp;A&nbsp;H&nbsp;I&nbsp;R&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L&nbsp;A&nbsp;B&nbsp;
 
 | OJ          | Solve Count | Username                                                          |
 | ----------- | ----------- | ----------------------------------------------------------------- |
-| Codeforces  | 902         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
+| Codeforces  | 973         | [mahirlabibdihan](https://codeforces.com/profile/mahirlabibdihan) |
 | HackerRank  | 76          | [mahirlabibdihan](https://www.hackerrank.com/mahirlabibdihan)     |
 | HackerEarth | 45          | [mahirlabibdihan](https://www.hackerearth.com/@mahirlabibdihan)   |
-| Leetcode    | 34          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
+| Leetcode    | 36          | [mahirlabibdihan](https://www.leetcode.com/mahirlabibdihan)       |
 | CodeChef    | 16          | [dihuu](https://www.codechef.com/users/dihuu)                     |
 | AtCoder     | 9           | [Dihuu](https://atcoder.jp/users/Dihuu)                           |
 | Vjudge      | 7           | [mahirlabibdihan](https://vjudge.net/user/mahirlabibdihan)        |
 | Toph        | 7           | [mahirlabibdihan](https://toph.co/u/mahirlabibdihan)              |
-| CSES        | 3           | [mahirlabibdihan](https://cses.fi/user/99946)                     |
+| CSES        | 5           | [mahirlabibdihan](https://cses.fi/user/99946)                     |
 | LightOJ     | 2           | [mahirlabibdihan](https://lightoj.com/user/mahirlabibdihan)       |
 | SPOJ        | 2           | [dihuu](https://www.spoj.com/users/dihuu/)                        |
-| Total       | 1104        |                                                                   |
+| Total       | 1178        |                                                                   |
 
 # Competitive Programming Stats
 
